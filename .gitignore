@@ -1,0 +1,4 @@
+/.venv/*
+/train/*
+/det_r50_vd_east_v2.0_train/*
+/output/*
